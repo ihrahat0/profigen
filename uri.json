@@ -2,5 +2,10 @@
   "name": "PROFIGEN",
   "symbol": "PROFI",
   "description": "Wings of Hope for Birds Everywhere",
-  "image": "https://profi-gen.com/profi-logo-small.png"
+  "image": "https://profi-gen.com/profi-logo-small.png",
+  "extensions": {
+    "website": "https://profi-gen.com",
+    "twitter": "https://twitter.com/profi_gen",
+    "telegram": "https://t.me/profigen"
+  }
 }
